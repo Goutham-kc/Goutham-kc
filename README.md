@@ -26,13 +26,23 @@ Full-stack developer with a growing focus on **system design** and **security-dr
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
-### 🐍 Contribution Snake
+### 📈 Activity Graph
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
-<sub>💡 The snake needs a one-time GitHub Action setup — see [Platane/snk](https://github.com/Platane/snk) for the copy-paste workflow file.</sub>
+### 💬 Random Dev Quote
+
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+### 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
 
 ### 📫 Reach Me
 Add your preferred contact links here (LinkedIn, email, portfolio, etc.)
