@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Goutham 👋
 
-<!--
-**Goutham-kc/Goutham-kc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer with a growing focus on **system design** and **security-driven engineering**.
 
-Here are some ideas to get you started:
+- 🎓 Currently a student, also interning at **IIT Madras**
+- 💻 Primary stack: **JavaScript / Node.js / React**
+- 🔐 Interested in system design, application security, and database internals
+- 🌱 Always exploring ways to make software more robust and secure, not just functional
+- ⚡ I'd rather build something technically deep than ship something generic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+`JavaScript` `TypeScript` `Node.js` `React` `Redux` `Express` `Socket.io` `PostgreSQL` `MongoDB`
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+<sub>💡 The snake needs a one-time GitHub Action setup — see [Platane/snk](https://github.com/Platane/snk) for the copy-paste workflow file.</sub>
+
+### 📫 Reach Me
+Add your preferred contact links here (LinkedIn, email, portfolio, etc.)
