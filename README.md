@@ -1,168 +1,110 @@
-<!-- welcome message -->
+# Hi there! I'm Goutham KC 👋
 
-# Hi there! I'm Cael.
-
-<!-- badge -->
 <div>
-  <a href="https://t.me/owencael" target="_blank">
+  <a href="https://github.com/Goutham-kc" target="_blank">
     <img
       height="35"
-      alt="telegram logo"
-      src="https://img.shields.io/static/v1?message=Telegrm&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
+      alt="GitHub"
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
-  <a href="mailto:MR-Addict@qq.com" target="_blank">
+  <a href="https://www.linkedin.com/in/goutham-kc/" target="_blank">
     <img
       height="35"
-      alt="gmail logo"
-      src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge"
+      alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
-  <a href="https://mraddict.one" target="_blank">
+  <a href="https://gouthamkc.me" target="_blank">
     <img
       height="35"
-      alt="microsoft-outlook logo"
-      src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
+      alt="Portfolio"
+      src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
     />
   </a>
 </div>
 
 <br/>
 
-I'm an undergradute student of Njtech University from Jiangsu China.
+I'm an undergraduate Computer Science student at **TKM College of Engineering**, Kerala, India.
 
-I have a strong passion for technology and enjoy exploring new tools. Here's a little bit more about me:
+I'm passionate about building modern web applications, exploring AI, and creating software that solves real-world problems. I enjoy learning new technologies and turning ideas into polished, user-friendly products.
 
-- 🔭 I’m currently working on building my portfolio and contributing to open source projects.
-- 🌱 I’m constantly learning frontend techonolgies and keeping improving my skills.
-- 👯 I’m looking to collaborate on any project that aligns with my interests and expertise.
-- 💼 I'm also writing some intersting projects, you can have a look on my pinned repositories.
-- 💬 Ask me about anything related to programming, technology, or video games.
-- 😄 You can reach me using above social badges links.
+Here's a little more about me:
 
-Here are programming languages or tools I frequently used:
+* 🔭 I'm currently building full-stack applications and growing my portfolio.
+* 🌐 Check out my portfolio at **https://gouthamkc.me**.
+* 🌱 I'm learning **Cloud Computing, DevOps, AI, and modern web technologies**.
+* 👯 I'm open to collaborating on open-source projects and hackathons.
+* 💼 I enjoy building scalable web applications and intuitive user experiences.
+* 💬 Ask me about **React, Next.js, TypeScript, Python, Node.js, or AI**.
+* ⚡ Fun fact: I love participating in hackathons and bringing ideas to life under pressure.
+
+##
+
+### Languages & Tools I Use
 
 <div>
-  <img
-    height="30"
-    width="42"
-    alt="typescript logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="python logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="matlab logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="tailwindcss logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="react logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="svelte logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="nextjs logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="mongodb logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="redis logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="mysql logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="docker logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="nginx logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="processing logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="raspberrypi logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="arduino logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
-  />
+  <img height="30" width="42" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img height="30" width="42" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img height="30" width="42" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="30" width="42" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="30" width="42" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="30" width="42" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="30" width="42" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="30" width="42" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img height="30" width="42" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="30" width="42" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img height="30" width="42" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img height="30" width="42" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="30" width="42" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="30" width="42" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img height="30" width="42" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
 ##
 
-And here are some interesting grphs:
+### GitHub Statistics
 
-<!-- grph -->
 <div align="left">
   <div>
     <img
       height="150"
-      alt="stats graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-Addict&theme=vue"
+      alt="GitHub Stats"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Goutham-kc&theme=vue"
     />
     <img
       height="150"
-      alt="languages graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MR-Addict&theme=vue"
+      alt="Top Languages"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Goutham-kc&theme=vue"
     />
   </div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-Addict&theme=vue" alt="profile detail" />
-  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/snake/snake.svg" alt="Snake animation" />
+
+<img
+ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Goutham-kc&theme=vue"
+ alt="Profile Details"
+/>
+
+<img
+ src="https://raw.githubusercontent.com/Goutham-kc/Goutham-kc/output/snake/snake.svg"
+ alt="Snake Animation"
+/>
+
 </div>
 
 ##
 
-If you have any questions or just want to say hi, feel free to reach out.
+### Achievements
 
-Have a great day!
+* 🏆 Hackathon participant and winner.
+* 🚀 Passionate about building impactful software.
+* 📚 Constantly learning and exploring new technologies.
+* 🌍 Open to collaborations and exciting opportunities.
 
 ---
-Credit: [MR-Addict](https://github.com/MR-Addict)
-Last Edit: 02/26/2023
+
+Thanks for visiting my profile!
+
+If you'd like to collaborate, discuss technology, or simply connect, feel free to reach out.
+
+**Happy Coding! 🚀**
