@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Goutham 👋
 
-<!--
-**Goutham-kc/Goutham-kc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer focused on building reliable, user-friendly software and continuously improving through hands-on projects.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript, TypeScript, Python, Java
+- **Frontend:** React, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, Express, REST APIs
+- **Database & Tools:** MongoDB, MySQL, Git, GitHub, VS Code
+
+## 📌 What I’m Working On
+
+- Building and refining personal and collaborative software projects
+- Improving problem-solving through consistent coding and open-source practice
+- Exploring modern full-stack development patterns
+
+## 📈 Contributions & Activity
+
+- Regularly contributing through commits, feature work, and project improvements
+- Open to collaboration on impactful and learning-focused projects
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goutham-kc&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Goutham-kc&layout=compact&theme=transparent)
+
+## 🤝 Connect
+
+- GitHub: [@Goutham-kc](https://github.com/Goutham-kc)
