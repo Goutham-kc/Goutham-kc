@@ -1,48 +1,168 @@
-# Hi, I'm Goutham 👋
+<!-- welcome message -->
 
-Full-stack developer with a growing focus on **system design** and **security-driven engineering**.
+# Hi there! I'm Cael.
 
-- 🎓 Currently a student, also interning at **IIT Madras**
-- 💻 Primary stack: **JavaScript / Node.js / React**
-- 🔐 Interested in system design, application security, and database internals
-- 🌱 Always exploring ways to make software more robust and secure, not just functional
-- ⚡ I'd rather build something technically deep than ship something generic
+<!-- badge -->
+<div>
+  <a href="https://t.me/owencael" target="_blank">
+    <img
+      height="35"
+      alt="telegram logo"
+      src="https://img.shields.io/static/v1?message=Telegrm&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
+    />
+  </a>
+  <a href="mailto:MR-Addict@qq.com" target="_blank">
+    <img
+      height="35"
+      alt="gmail logo"
+      src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge"
+    />
+  </a>
+  <a href="https://mraddict.one" target="_blank">
+    <img
+      height="35"
+      alt="microsoft-outlook logo"
+      src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
+    />
+  </a>
+</div>
 
-### 🧰 Tech Stack
-`JavaScript` `TypeScript` `Node.js` `React` `Redux` `Express` `Socket.io` `PostgreSQL` `MongoDB`
+<br/>
 
-### 📊 GitHub Stats
+I'm an undergradute student of Njtech University from Jiangsu China.
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+I have a strong passion for technology and enjoy exploring new tools. Here's a little bit more about me:
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+- 🔭 I’m currently working on building my portfolio and contributing to open source projects.
+- 🌱 I’m constantly learning frontend techonolgies and keeping improving my skills.
+- 👯 I’m looking to collaborate on any project that aligns with my interests and expertise.
+- 💼 I'm also writing some intersting projects, you can have a look on my pinned repositories.
+- 💬 Ask me about anything related to programming, technology, or video games.
+- 😄 You can reach me using above social badges links.
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
+Here are programming languages or tools I frequently used:
 
-### 📈 Activity Graph
+<div>
+  <img
+    height="30"
+    width="42"
+    alt="typescript logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="python logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="matlab logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="tailwindcss logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="react logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="svelte logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="nextjs logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="mongodb logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="redis logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="mysql logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="docker logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="nginx logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="processing logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="raspberrypi logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="arduino logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
+  />
+</div>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
+##
 
-### 💬 Random Dev Quote
+And here are some interesting grphs:
 
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
+<!-- grph -->
+<div align="left">
+  <div>
+    <img
+      height="150"
+      alt="stats graph"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-Addict&theme=vue"
+    />
+    <img
+      height="150"
+      alt="languages graph"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MR-Addict&theme=vue"
+    />
+  </div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-Addict&theme=vue" alt="profile detail" />
+  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/snake/snake.svg" alt="Snake animation" />
+</div>
 
-### 👀 Profile Views
+##
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
+If you have any questions or just want to say hi, feel free to reach out.
 
-### 📫 Reach Me
-Add your preferred contact links here (LinkedIn, email, portfolio, etc.)
+Have a great day!
+
+---
+Credit: [MR-Addict](https://github.com/MR-Addict)
+Last Edit: 02/26/2023
