@@ -85,10 +85,20 @@ Here's a little more about me:
  alt="Profile Details"
 />
 
-<img
- src="https://raw.githubusercontent.com/Goutham-kc/Goutham-kc/output/snake/snake.svg"
- alt="Snake Animation"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Goutham-kc/Goutham-kc/output/snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Goutham-kc/Goutham-kc/output/snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/Goutham-kc/Goutham-kc/output/snake.svg"
+  />
+</picture>
 
 </div>
 
