@@ -1,4 +1,4 @@
-# Hi there! I'm Goutham KC 👋
+# Hi there! I'm Goutham KC 
 
 <div>
   <a href="https://github.com/Goutham-kc" target="_blank">
